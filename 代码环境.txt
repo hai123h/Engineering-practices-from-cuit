@@ -1,0 +1,1 @@
+anaconda:conda 23.3.1,python=Python 3.7.16,open3d=0.11.2
